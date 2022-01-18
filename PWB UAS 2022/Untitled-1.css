@@ -1,0 +1,757 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  position: relative;
+  width: 1740px;
+  height: 3424px;
+}
+.v4_2 {
+  width: 100%;
+  height: 3369px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v6_64 {
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 26px;
+  left: 0px;
+  overflow: hidden;
+}
+.v6_65 {
+  width: 100%;
+  height: 260px;
+  background: url("../images/v6_65.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2772px;
+  left: 9px;
+  overflow: hidden;
+}
+.v6_66 {
+  width: 329px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 5px;
+  left: 0px;
+  font-family: GeForce;
+  font-weight: Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_67 {
+  width: 370px;
+  height: 1px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: absolute;
+  top: 43px;
+  left: 26px;
+  overflow: hidden;
+}
+.v6_68 {
+  width: 370px;
+  height: 1px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: absolute;
+  top: 41px;
+  left: 631px;
+  overflow: hidden;
+}
+.v6_69 {
+  width: 395px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 230px;
+  left: 119px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v6_70 {
+  width: 38px;
+  height: 38px;
+  background: rgba(255,255,255,1);
+  opacity: 0.5;
+  position: absolute;
+  top: 222px;
+  left: 763px;
+  overflow: hidden;
+}
+.v6_71 {
+  width: 38px;
+  height: 38px;
+  background: rgba(38,97,86,1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+}
+.v6_72 {
+  width: 39px;
+  height: 39px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v6_73 {
+  width: 39px;
+  height: 39px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v6_74 {
+  width: 38px;
+  height: 38px;
+  background: rgba(255,255,255,1);
+  opacity: 0.5;
+  position: absolute;
+  top: 222px;
+  left: 911px;
+  overflow: hidden;
+}
+.v6_75 {
+  width: 38px;
+  height: 30px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  left: 1px;
+}
+.v6_76 {
+  width: 38px;
+  height: 38px;
+  background: rgba(255,255,255,1);
+  opacity: 0.5;
+  position: absolute;
+  top: 222px;
+  left: 837px;
+  overflow: hidden;
+}
+.v6_77 {
+  width: 38px;
+  height: 38px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v6_78 {
+  width: 38px;
+  height: 38px;
+  background: rgba(255,255,255,1);
+  opacity: 0.5;
+  position: absolute;
+  top: 261px;
+  left: 1023px;
+  transform: rotate(-178deg);
+  overflow: hidden;
+}
+.v6_79 {
+  width: 37px;
+  height: 26px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 0px;
+}
+.v6_80 {
+  width: 93px;
+  color: rgba(118,185,0,1);
+  position: absolute;
+  top: 60px;
+  left: 26px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_81 {
+  width: 46px;
+  color: rgba(118,185,0,1);
+  position: absolute;
+  top: 60px;
+  left: 631px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_82 {
+  width: 46px;
+  color: rgba(118,185,0,1);
+  position: absolute;
+  top: 122px;
+  left: 631px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_83 {
+  width: 46px;
+  color: rgba(118,185,0,1);
+  position: absolute;
+  top: 92px;
+  left: 631px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_84 {
+  width: 93px;
+  color: rgba(118,185,0,1);
+  position: absolute;
+  top: 152px;
+  left: 26px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_85 {
+  width: 93px;
+  color: rgba(118,185,0,1);
+  position: absolute;
+  top: 122px;
+  left: 26px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_86 {
+  width: 93px;
+  color: rgba(118,185,0,1);
+  position: absolute;
+  top: 92px;
+  left: 26px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_87 {
+  width: 113px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 631px;
+  font-family: GeForce;
+  font-weight: Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_112 {
+  width: 102px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 230px;
+  left: 639px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v6_88 {
+  width: 100%;
+  height: 549px;
+  background: url("../images/v6_88.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2051px;
+  left: 6px;
+  overflow: hidden;
+}
+.v6_89 {
+  width: 100%;
+  height: 549px;
+  background: rgba(255,255,255,0.11999999731779099);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v6_90 {
+  width: 501px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 251px;
+  left: 81px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  opacity: 1;
+  text-align: center;
+  
+}
+.v6_91 {
+  width: 771px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 4px;
+  left: 337px;
+  font-family: GeForce;
+  font-weight: Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_92 {
+  width: 365px;
+  color: rgba(118,185,0,1);
+  position: absolute;
+  top: 200px;
+  left: 149px;
+  font-family: GeForce;
+  font-weight: Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_93 {
+  width: 586px;
+  height: 333px;
+  background: url("geforce-rtx-30-series-l.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 137px;
+  left: 745px;
+  overflow: hidden;
+}
+.v6_94 {
+  width: 235px;
+  height: 57px;
+  background: rgba(118,185,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 398px;
+  left: 132px;
+  overflow: hidden;
+}
+.v6_95 {
+  width: 193px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 407px;
+  left: 153px;
+  font-family: Work Sans;
+  font-weight: Bold;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v6_96 {
+  width: 100%;
+  height: 802px;
+  background: url("../images/v6_96.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1025px;
+  left: 50px;
+  overflow: hidden;
+}
+.v6_97 {
+  width: 649px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 339px;
+  font-family: GeForce;
+  font-weight: Bold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_98 {
+  width: 621px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 167px;
+  left: 572px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+  height: 253px;
+}
+.v6_99 {
+  width: 443px;
+  height: 314px;
+  background: url("geforce-gtx-1660-ti-gallery-h (1).jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 87px;
+  left: 83px;
+  overflow: hidden;
+}
+.v6_100 {
+  width: 338px;
+  color: rgba(118,185,0,1);
+  position: absolute;
+  top: 428px;
+  left: 185px;
+  font-family: GeForce;
+  font-weight: Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_101 {
+  width: 339px;
+  color: rgba(118,185,0,1);
+  position: absolute;
+  top: 428px;
+  left: 918px;
+  font-family: GeForce;
+  font-weight: Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_102 {
+  width: 292px;
+  height: 335px;
+  background: url("geeforce-gtx-1650-dt-gallery-f.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 467px;
+  left: 349px;
+  overflow: hidden;
+}
+.v6_103 {
+  width: 292px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 502px;
+  left: 50px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_104 {
+  width: 292px;
+  height: 235px;
+  background: url("geforce-gtx-1660-ti-gallery-h.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 517px;
+  left: 1127px;
+  overflow: hidden;
+}
+.v6_105 {
+  width: 292px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 502px;
+  left: 779px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_106 {
+  width: 692px;
+  color: rgba(118,185,0,1);
+  position: absolute;
+  top: 103px;
+  left: 576px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: GeForce;
+  font-weight: Bold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_107 {
+  width: 100%;
+  height: 683px;
+  background: url("../images/v6_107.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 196px;
+  left: 22px;
+  overflow: hidden;
+}
+.v6_108 {
+  width: 757px;
+  height: 683px;
+  background: url("nvidia-geforce-gtx-gpu-technology-wallpaper-preview.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 0.800000011920929;
+  position: absolute;
+  top: 0px;
+  left: 568px;
+  border: 1px solid rgba(0,0,0,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v6_109 {
+    position: absolute;
+    width: 607px;
+    height: 156.48px;
+    left: 118px;
+    top: 285.58px;
+    
+    background: #76B900;
+    opacity: 0.8;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+.v6_110 {
+    position: absolute;
+    width: 250px;
+    height: 53.85px;
+    left: 208px;
+    top: 363.82px;
+    
+    font-family: GeForce;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 53px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: -0.02em;
+    
+    color: #FFFFFF;
+}
+.v6_111 {
+    position: absolute;
+    width: 555px;
+    height: 204px;
+    left: 22px;
+    top: 538px;
+    
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #ffff
+}
+.v6_113 {
+  width: 100%;
+  height: 81px;
+  background: url("");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  overflow: hidden;
+}
+.v6_114 {
+  width: 125px;
+  color: rgba(255,255,255,0.6100000143051147);
+  position: absolute;
+  top: 55px;
+  left: 362px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+  letter-spacing: 0.205em;
+}
+.v6_115 {
+  width: 125px;
+  color: rgba(255,255,255,0.6100000143051147);
+  position: absolute;
+  top: 55px;
+  left: 821px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+  letter-spacing: 0.205em;
+}
+.v6_116 {
+  width: 125px;
+  color: rgba(255,255,255,0.6100000143051147);
+  position: absolute;
+  top: 55px;
+  left: 668px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+  letter-spacing: 0.205em;
+}
+.v6_117 {
+  width: 125px;
+  color: rgba(255,255,255,0.6100000143051147);
+  position: absolute;
+  top: 55px;
+  left: 964px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+  letter-spacing: 0.205em;
+}
+.v6_118 {
+  width: 125px;
+  color: rgba(255,255,255,0.6100000143051147);
+  position: absolute;
+  top: 55px;
+  left: 515px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+  letter-spacing: 0.205em;
+}
+.v6_119 {
+  width: 116px;
+  height: 33px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: -10px;
+  left: 0px;
+  overflow: hidden;
+}
+.v6_120 {
+  width: 28px;
+  height: 24px;
+  background: url("../images/v6_120.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 121px;
+  overflow: hidden;
+}
+.v6_121 {
+  width: 30px;
+  height: 30px;
+  background: url("../images/v6_121.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 116px;
+  overflow: hidden;
+}
+.v6_122 {
+  width: 21px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: -2px;
+  left: 161px;
+  font-family: Wallpoet;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+}
+.v6_123 {
+  width: 116px;
+  height: 33px;
+  background: url("../images/v6_123.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v6_124 {
+  width: 100px;
+  height: 100px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: absolute;
+  top: 2000px;
+  left: 436px;
+  overflow: hidden;
+}
+
+
